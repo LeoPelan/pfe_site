@@ -38,6 +38,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'simple_form'
 # use haml markup
 gem 'haml'
+gem 'html2haml'
 
 #easy decorators
 gem 'draper'
